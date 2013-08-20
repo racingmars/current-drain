@@ -1,0 +1,9 @@
+Just a scratchpad for some notes during development
+===================================================
+
+Parts --
+
+9V battery holder/clip to mount on bottom side of board:
+1291K-ND
+
+
