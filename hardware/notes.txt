@@ -6,4 +6,9 @@ Parts --
 9V battery holder/clip to mount on bottom side of board:
 1291K-ND
 
+Voltage regulators:
+AP1117E33GDICT-ND, AP1117E50GDICT-ND
+
+Power switch:
+EG2355-ND
 
